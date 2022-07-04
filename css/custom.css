@@ -17,7 +17,10 @@ a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
 
 }
-
+.topHeader {
+    background-image: url('../images/fancy-cushion.webp');
+    background-repeat: repeat;
+}
 /* grid */
 .grid-container {
     display: grid;
